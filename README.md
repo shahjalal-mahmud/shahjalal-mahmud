@@ -1,24 +1,59 @@
-# 💫 About Me:
-Hi, I’m Shahajalal Mahmud — a 3rd-year CSE student and the Founder of Appriyo.<br><br>I enjoy building practical software systems that solve real problems. Most of my work focuses on Android development with Kotlin & Jetpack Compose, but I also work across web, system design, and product architecture when needed.<br><br>At Appriyo, I lead a small team and handle the core technical execution — from understanding client requirements and designing system architecture to building MVPs and iterating based on real user feedback. I care deeply about clean structure, scalability, and usability, not just making things “work”.<br><br>I’m currently focused on:<br>Building modern Android apps with Jetpack Compose<br>Designing MVPs and internal tools for small businesses<br>Exploring product-based ideas (SaaS & NFC-enabled digital cards)<br>Improving my system design and engineering fundamentals
+# 👋 Hi, I'm Shahajalal Mahmud
 
+<p align="left">
+  <img src="https://img.shields.io/badge/3rd%20Year-CSE%20Student-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Founder-Appriyo-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Android%20%7C%20Kotlin-green?style=flat-square" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShahjalalMahmud100) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahjalal_mahmud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahajalal-mahmud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmud.nubtk@gmail.com) 
+I am a Software Engineer and the Founder of **Appriyo**, where I bridge the gap between business requirements and technical execution. I specialize in building **practical, scalable software systems** with a heavy focus on the Android ecosystem.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahjalal-mahmud&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahjalal-mahmud&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalal-mahmud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shahjalal-mahmud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shahjalal-mahmud&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🛠️ What I Do
+- **Engineering:** Crafting modern Android experiences using **Kotlin & Jetpack Compose**.
+- **Leadership:** Leading technical strategy at **Appriyo**, from MVP architecture to production-ready systems.
+- **Philosophy:** I advocate for Clean Architecture, maintainable codebases, and user-centric product design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shahjalal-mahmud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Mobile** | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/-Jetpack%20Compose-3DDC84?logo=android&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) |
+| **Web & Backend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-039BE5?logo=firebase&style=flat-square) |
+| **Infrastructure** | ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) |
+
+---
+
+### 📊 Engineering Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahjalal-mahmud&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalal-mahmud&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shahjalal-mahmud&theme=github-dark&hide_border=true" width="100%" />
+</p>
+
+<details>
+  <summary>🚀 View More Activity & Trophies</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahjalal-mahmud&theme=github-dark&hide_border=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shahjalal-mahmud&theme=radical&no-frame=true" />
+  </p>
+</details>
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/md-shahjalal-mahmud" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mahmud.nubtk@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://facebook.com/ShahjalalMahmud100" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/shahjalal_mahmud" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shahjalal-mahmud&icon=0&color=0" />
+</p>

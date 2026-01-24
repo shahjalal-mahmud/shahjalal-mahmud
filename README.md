@@ -25,13 +25,6 @@ I am a Software Engineer and the Founder of **Appriyo**, where I bridge the gap 
 
 ---
 
-### Engineering Stats
-<p align="center">
-  <img src="http://localhost:3000/api/insight?username=shahjalal-mahmud&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/md-shahjalal-mahmud" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

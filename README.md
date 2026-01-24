@@ -25,24 +25,10 @@ I am a Software Engineer and the Founder of **Appriyo**, where I bridge the gap 
 
 ---
 
-### 📊 Engineering Stats
+### Engineering Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahjalal-mahmud&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalal-mahmud&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=shahjalal-mahmud&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shahjalal-mahmud&theme=github-dark&hide_border=true" width="100%" />
-</p>
-
-<details>
-  <summary>🚀 View More Activity & Trophies</summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahjalal-mahmud&theme=github-dark&hide_border=true" />
-    <img src="https://github-profile-trophy.vercel.app/?username=shahjalal-mahmud&theme=radical&no-frame=true" />
-  </p>
-</details>
 
 ---
 

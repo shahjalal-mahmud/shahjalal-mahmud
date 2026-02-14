@@ -33,5 +33,5 @@ I am a Software Engineer and the Founder of **Appriyo**, where I bridge the gap 
 </p>
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=shahjalal-mahmud&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=shahjalal-mahmud&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>

@@ -6,79 +6,51 @@
   <img src="https://img.shields.io/badge/Focus-Android%20%7C%20System%20Design-green?style=flat-square" />
 </p>
 
-I don’t just write code — I design scalable systems that solve real business problems.
-
-I'm a Software Engineer, Android Developer (Kotlin), and the Founder of **Appriyo**, where I lead a specialized team building high-performance digital products. As a 3rd-year CSE student, I combine strong engineering fundamentals with real-world product execution.
-
-While many developers focus on syntax, I focus on **architecture, scalability, and product lifecycle** — from MVP idea to production-ready system.
+I build scalable Android systems that solve real business problems.  
+Founder of Appriyo, leading end-to-end product development from MVP architecture to production deployment.
 
 ---
 
 ## What I Do
 
-### System Architecture & MVP Design
-- Design modular, scalable systems built for long-term growth  
-- Apply Clean Architecture & MVVM principles  
-- Optimize development workflows to reduce MVP delivery time  
+**Android Engineering**  
+Production-ready Android apps using Kotlin and Jetpack Compose with clean MVVM architecture.
 
-### Modern Android Engineering
-- Build production-ready Android apps using **Kotlin & Jetpack Compose**
-- Implement Coroutines, WorkManager, Navigation & Firebase
-- Focus on performance, maintainability, and real-world usability  
+**System Design**  
+Designing modular, maintainable systems focused on scalability and performance.
 
-### Full-Stack Thinking
-- Bridge mobile ecosystems with modern web platforms (React + Firebase)
-- Understand both business requirements and technical implementation
-- Build complete digital solutions — not just features  
-
-### Leadership & Product Execution
-- Founder & Technical Lead at **Appriyo**
-- Manage agile workflows and cross-functional collaboration
-- Turn complex business ideas into structured technical systems  
+**Product Execution**  
+Turning real-world problems into structured, usable digital solutions.
 
 ---
 
-## Real-World Impact
+## Projects
 
-### Repair Store Manager (Android SaaS Product)
-A complete Android-based management system actively used by real phone repair shop owners.
+**Repair Store Manager (Android SaaS)**  
+Digitizes repair shop operations — customer tracking, invoicing, stock, finance, and automated reminders in one scalable mobile system.
 
-✔ Customer & device tracking  
-✔ Invoice generation + Bluetooth POS printing (58mm/80mm)  
-✔ Stock management + financial tracking  
-✔ SMS automation + delivery reminders  
-✔ Firebase (Auth, Firestore, Storage) integration  
-✔ Online/offline sync architecture  
+**CashGuard AI – Counterfeit Detection**  
+Real-time offline Android app that detects fake Bangladeshi currency using TensorFlow Lite and CameraX.
 
-This project is evolving into a scalable SaaS solution, built with real business feedback.
+**Prodorshok – AI Career Companion**  
+AI-powered Android app guiding students with personalized career roadmaps and skill-gap analysis.
 
----
-
-## 🛠 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-3DDC84?logo=android&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) |
-| **Backend & Cloud** | ![Firebase](https://img.shields.io/badge/-Firebase-039BE5?logo=firebase&style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) |
-| **Web** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square) |
+**Automated Academic Cover Page Generator**  
+Web system that eliminates repetitive academic data entry by auto-generating structured cover pages from minimal student input.
 
 ---
 
-## 🏆 Achievements
+## Android Tech Stack
 
-- 🥇 Solvio 2025 AI Hackathon – Top 100  
-- 🏅 Math Olympiad 2016  
-- 🏅 Intra-University Project Showcase  
+Kotlin • Jetpack Compose • MVVM • Coroutines • Navigation  
+WorkManager • Firebase (Auth, Firestore, Storage)  
+CameraX • TensorFlow Lite  
 
 ---
 
 ## Current Focus
 
-- Building scalable Android SaaS products  
-- System design & performance optimization  
-- Preparing production-ready apps for Play Store  
-- Expanding Appriyo into a full digital product agency  
+Building scalable Android SaaS products with strong system architecture and real-world usability.
 
 ---
 
@@ -99,12 +71,6 @@ This project is evolving into a scalable SaaS solution, built with real business
 </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=shahjalal-mahmud&theme=github_light&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
-
----
-
-⭐ If you're a recruiter looking for someone who understands both **code and business impact**, let's build something meaningful.

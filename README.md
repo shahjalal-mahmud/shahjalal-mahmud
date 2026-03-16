@@ -26,6 +26,9 @@ Turning real-world problems into structured, usable digital solutions.
 
 ## Projects
 
+**Amar Batch – Teacher Batch Management App**  
+Offline-first Android system designed for Bangladeshi private tutors to manage student batches, attendance, tuition fees, exams, and SMS communication with parents — built using Kotlin, Jetpack Compose, MVVM, and Room.
+
 **Repair Store Manager (Android SaaS)**  
 Digitizes repair shop operations — customer tracking, invoicing, stock, finance, and automated reminders in one scalable mobile system.
 

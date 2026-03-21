@@ -38,8 +38,6 @@ Real-time offline Android app that detects fake Bangladeshi currency using Tenso
 **Prodorshok – AI Career Companion**  
 AI-powered Android app guiding students with personalized career roadmaps and skill-gap analysis.
 
-**Automated Academic Cover Page Generator**  
-Web system that eliminates repetitive academic data entry by auto-generating structured cover pages from minimal student input.
 
 ---
 

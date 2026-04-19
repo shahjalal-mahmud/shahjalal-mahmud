@@ -3,14 +3,11 @@
 📍 **Khulna, Bangladesh** | 📱 **Android & Backend Engineer** | 🏗️ **Founder @ Appriyo**
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF5722?style=flat-square&logo=postman&logoColor=white)
 
 > Building scalable software systems that solve real-world business problems — from production-grade Android apps to secure multi-tenant backend architectures. Running Appriyo end-to-end: system design, infrastructure, and mobile.

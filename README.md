@@ -1,116 +1,113 @@
-# Hi, I'm Md Shahajalal Mahmud
+# Hi, I'm Md Shahajalal Mahmud 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Software%20Engineer-Android%20%7C%20Backend-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Founder-Appriyo-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-green?style=flat-square" />
-</p>
+📍 **Khulna, Bangladesh** | 📱 **Android & Backend Engineer** | 🏗️ **Founder @ Appriyo**
 
-I build scalable software systems that solve real-world business problems — from mobile apps to backend architectures.
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF5722?style=flat-square&logo=postman&logoColor=white)
 
-Founder of Appriyo, leading end-to-end product development including system design, backend infrastructure, and Android applications.
+> Building scalable software systems that solve real-world business problems — from production-grade Android apps to secure multi-tenant backend architectures. Running Appriyo end-to-end: system design, infrastructure, and mobile.
 
----
+## Current Projects
 
-## What I Do
+- 🔧 **[Amar Repair](https://appriyo.com)** – Multi-tenant SaaS for repair shop management (Android + Backend)
+- 📚 **[Amar Batch](https://appriyo.com)** – Offline-first tutor management system with Room DB
+- 💸 **[CashGuard AI](https://appriyo.com)** – Real-time fake currency detection using TensorFlow Lite (Top 100 · SOLVIO AI Hackathon 2025)
+- 🔐 **[FinPaySDK](https://appriyo.com)** – Secure Android payment SDK with AES-256 & Android Keystore
 
-**Android Engineering**  
-Building production-grade Android apps using Kotlin, Jetpack Compose, and clean MVVM architecture with strong focus on performance and reliability.
+## Featured Work
 
-**Backend Development**  
-Designing secure and scalable REST APIs using Node.js, PostgreSQL, Prisma, and JWT-based authentication systems.
+### 🔧 Amar Repair — Multi-Tenant SaaS Platform
+End-to-end repair business management with strict data isolation and RBAC.
+- Designed **multi-tenant architecture** with per-tenant data isolation
+- Built **secure REST APIs** with JWT authentication and role-based access control
+- Implemented **transaction-safe workflows** for payments, repairs, and inventory
+- Delivered **99.9% crash-free** Android performance in production
 
-**System Design**  
-Architecting multi-tenant systems with proper data isolation, RBAC authorization, and transactional safety.
+### 📚 Amar Batch — Offline-First Management System
+Android app for tutors to manage students, attendance, and fees — works without internet.
+- Built **offline-first architecture** using Room DB with sync support
+- Reduced manual administrative workload by **~80%**
+- Designed efficient local schema optimized for fast queries
 
-**Product Execution**  
-Transforming real-world workflows into efficient, scalable digital systems.
+### 💸 CashGuard AI — Currency Detection App
+Real-time offline fake currency detection powered by on-device AI.
+- Integrated **TensorFlow Lite + CameraX** for low-latency inference
+- Achieved **98.7% detection accuracy** on-device
+- **Top 100 Finalist** at SOLVIO AI Hackathon 2025
 
----
-
-## Featured Projects
-
-### Amar Repair — Multi-Tenant SaaS System
-End-to-end repair business management platform (Android + Backend).
-
-- Designed **multi-tenant architecture** ensuring strict data isolation
-- Built **secure APIs with RBAC and JWT authentication**
-- Implemented **transaction-safe workflows** for payments and repairs
-- Achieved **99.9% crash-free Android performance**
-
----
-
-### Amar Batch — Offline-First Management System
-Android system for tutors to manage students, attendance, and fees.
-
-- Built **offline-first architecture using Room DB**
-- Reduced manual workload by **~80%**
-- Designed efficient schema for fast local operations
-
----
-
-### CashGuard AI — Currency Detection App
-Real-time offline fake currency detection using AI.
-
-- Integrated **TensorFlow Lite + CameraX**
-- Achieved **98.7% detection accuracy**
-- Top 100 Finalist — SOLVIO AI Hackathon 2025
-
----
-
-### FinPaySDK — Secure Payment Library
-Android SDK for secure payment processing.
-
-- Implemented **AES-256 encryption + Android Keystore**
-- Modular architecture with **100% test coverage**
-
----
+### 🔐 FinPaySDK — Secure Payment Library
+Modular Android SDK built for secure and testable payment integration.
+- **AES-256 encryption** backed by Android Keystore
+- Clean modular architecture with **100% unit test coverage**
 
 ## Tech Stack
 
-**Languages**  
-Kotlin • Java • TypeScript • JavaScript • C++ • SQL  
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![MVVM](https://img.shields.io/badge/-MVVM-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/-Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/-Room%20DB-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Mobile**  
-Jetpack Compose • MVVM • Coroutines • Room  
+## GitHub Activity
 
-**Backend**  
-Node.js • REST APIs • JWT • Prisma  
+![GitHub Contribution Graph](https://ghchart.rshah.org/shahjalal-mahmud)
 
-**Database**  
-PostgreSQL • Firebase  
+## What I'm Doing
 
-**Core CS**  
-Data Structures • OS • DBMS • Networking  
+- **Scaling Appriyo** – Building and shipping production systems end-to-end as a solo technical founder
+- **Deepening backend expertise** – Multi-tenant SaaS architecture, transactional safety, and secure API design
+- **Exploring on-device AI** – Integrating TensorFlow Lite into real Android products
+- **Writing clean systems** – Strong opinions on MVVM, RBAC, offline-first design, and test coverage
 
-**Security**  
-RBAC • Secure API Design • Data Isolation  
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Md%20Shahajalal%20Mahmud-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahajalal-mahmud)
+[![Email](https://img.shields.io/badge/-mahmud.nubtk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmud.nubtk@gmail.com)
+[![Appriyo](https://img.shields.io/badge/-appriyo.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://appriyo.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://shahajalalmahmud.netlify.app/)
 
 ---
-
-## Current Focus
-
-Building scalable SaaS systems with strong backend architecture, focusing on multi-tenant design, performance, and real-world reliability.
-
----
-
-## Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/md-shahajalal-mahmud" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mahmud.nubtk@gmail.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://appriyo.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/Appriyo-Website-black?style=for-the-badge" />
-</a>
-<a href="https://shahajalalmahmud.netlify.app/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-</a>
-</p>
 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=shahjalal-mahmud&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" />
 </p>
+
+---
+
+### Recognition
+
+- 🏆 **Top 100 Finalist** – SOLVIO AI Hackathon 2025 (CashGuard AI)
+- 🏗️ **Founder** – Appriyo, delivering end-to-end product engineering
+- 📱 **Production Android apps** with 99.9% crash-free rates
+
+### Philosophy
+
+> "Systems beat features" – I build software that scales, isolates data properly, and doesn't break at 3am. Reliability is a feature.
+
+<details>
+<summary>Random Facts</summary>
+
+- Run multi-tenant systems where a bug affects everyone — keeps the standards high
+- Believe offline-first is underrated in a world obsessed with the cloud
+- Think RBAC done right is an art form
+- Powered by strong tea and compiler errors
+
+</details>

@@ -16,11 +16,19 @@
 > Building scalable software systems that solve real-world business problems — from production-grade Android apps to secure multi-tenant backend architectures. Running Appriyo end-to-end: system design, infrastructure, and mobile.
 
 ## Current Projects
-
-- 🔧 **[Amar Repair](https://appriyo.com)** – Multi-tenant SaaS for repair shop management (Android + Backend)
-- 📚 **[Amar Batch](https://appriyo.com)** – Offline-first tutor management system with Room DB
-- 💸 **[CashGuard AI](https://appriyo.com)** – Real-time fake currency detection using TensorFlow Lite (Top 100 · SOLVIO AI Hackathon 2025)
-- 🔐 **[FinPaySDK](https://appriyo.com)** – Secure Android payment SDK with AES-256 & Android Keystore
+ 
+- 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)** — Multi-tenant SaaS for repair shop management (Android + Backend)
+- 📚 **[Amar Batch](https://github.com/shahjalal-mahmud/Amar_Batch)** — Offline-first tutor & student management system with Room DB
+- 💸 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Real-time on-device fake currency detection via TensorFlow Lite · 🏆 Top 100 · SOLVIO AI Hackathon 2025
+- 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK with AES-256 encryption & Android Keystore
+- 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes
+## Past Projects
+ 
+- 🤖 **[Prodorshok](https://github.com/shahjalal-mahmud/Prodorshok)** — AI-powered career guide for Bangladeshi students · Kotlin, Jetpack Compose, GPT-3.5
+- 🎓 **[Portfolio Nag Sir](https://anindyanag.netlify.app/)** — Full-stack academic portfolio & CMS with React, Firebase, Firestore, and admin dashboard
+- 📄 **[Cover Page Generator](https://nubtk.netlify.app/)** — Smart academic cover page automation for university students using JSON datasets & auto-fill logic
+- ⚙️ **[CPU Scheduler](https://github.com/shahjalal-mahmud/CPU_Scheduler)** — Terminal-based CPU scheduling simulator in C++ · FCFS, SJF, Round Robin with Gantt chart & metrics
+- 🔍 **[Deadlock Detective](https://github.com/shahjalal-mahmud/Deadlock-Detective-Bankers-Algorithm-Simulator)** — C++17 simulation of Dijkstra's Banker's Algorithm · safety checks, Need matrix, step-by-step safe sequence
 
 ## Featured Work
 

@@ -16,19 +16,27 @@
 > Building scalable software systems that solve real-world business problems — from production-grade Android apps to secure multi-tenant backend architectures. Running Appriyo end-to-end: system design, infrastructure, and mobile.
 
 ## Current Projects
- 
+
 - 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)** — Multi-tenant SaaS for repair shop management (Android + Backend)
 - 📚 **[Amar Batch](https://github.com/shahjalal-mahmud/Amar_Batch)** — Offline-first tutor & student management system with Room DB
 - 💸 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Real-time on-device fake currency detection via TensorFlow Lite · 🏆 Top 100 · SOLVIO AI Hackathon 2025
 - 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK with AES-256 encryption & Android Keystore
 - 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes
+
 ## Past Projects
- 
+
 - 🤖 **[Prodorshok](https://github.com/shahjalal-mahmud/Prodorshok)** — AI-powered career guide for Bangladeshi students · Kotlin, Jetpack Compose, GPT-3.5
 - 🎓 **[Portfolio Nag Sir](https://anindyanag.netlify.app/)** — Full-stack academic portfolio & CMS with React, Firebase, Firestore, and admin dashboard
 - 📄 **[Cover Page Generator](https://nubtk.netlify.app/)** — Smart academic cover page automation for university students using JSON datasets & auto-fill logic
 - ⚙️ **[CPU Scheduler](https://github.com/shahjalal-mahmud/CPU_Scheduler)** — Terminal-based CPU scheduling simulator in C++ · FCFS, SJF, Round Robin with Gantt chart & metrics
 - 🔍 **[Deadlock Detective](https://github.com/shahjalal-mahmud/Deadlock-Detective-Bankers-Algorithm-Simulator)** — C++17 simulation of Dijkstra's Banker's Algorithm · safety checks, Need matrix, step-by-step safe sequence
+
+## Legacy Work
+
+These were scrapped and fully rewritten — not because they failed, but because real users exposed what needed to change.
+
+- 🔧 **Repair Store Manager** — First production repair shop app, used by a real shop owner · Hit hard limits in data consistency, scaling, and UX under real-world load · Scrapped the codebase entirely and rebuilt from scratch → **became Amar Repair**
+- 📚 **Teacher Batch Management** — Offline-first prototype for Bangladeshi batch tutors · Validated core workflows (attendance, fees, marks, SMS alerts) · Architecture lessons fed directly into → **Amar Batch**
 
 ## Featured Work
 
@@ -80,10 +88,10 @@ Modular Android SDK built for secure and testable payment integration.
 
 ## What I'm Doing
 
-- **Scaling Appriyo** – Building and shipping production systems end-to-end as a solo technical founder
-- **Deepening backend expertise** – Multi-tenant SaaS architecture, transactional safety, and secure API design
-- **Exploring on-device AI** – Integrating TensorFlow Lite into real Android products
-- **Writing clean systems** – Strong opinions on MVVM, RBAC, offline-first design, and test coverage
+- **Scaling Appriyo** — Building and shipping production systems end-to-end as a solo technical founder
+- **Deepening backend expertise** — Multi-tenant SaaS architecture, transactional safety, and secure API design
+- **Exploring on-device AI** — Integrating TensorFlow Lite into real Android products
+- **Writing clean systems** — Strong opinions on MVVM, RBAC, offline-first design, and test coverage
 
 ## Connect
 
@@ -102,20 +110,21 @@ Modular Android SDK built for secure and testable payment integration.
 
 ### Recognition
 
-- 🏆 **Top 100 Finalist** – SOLVIO AI Hackathon 2025 (CashGuard AI)
-- 🏗️ **Founder** – Appriyo, delivering end-to-end product engineering
+- 🏆 **Top 100 Finalist** — SOLVIO AI Hackathon 2025 (CashGuard AI)
+- 🏗️ **Founder** — Appriyo, delivering end-to-end product engineering
 - 📱 **Production Android apps** with 99.9% crash-free rates
 
 ### Philosophy
 
-> "Systems beat features" – I build software that scales, isolates data properly, and doesn't break at 3am. Reliability is a feature.
+> "Systems beat features" — I build software that scales, isolates data properly, and doesn't break at 3am. Reliability is a feature.
 
 <details>
 <summary>Random Facts</summary>
 
-- Run multi-tenant systems where a bug affects everyone — keeps the standards high
+- Shipped to real users, watched it break, and rebuilt it better — twice
 - Believe offline-first is underrated in a world obsessed with the cloud
 - Think RBAC done right is an art form
+- Run multi-tenant systems where one bad query affects everyone — keeps the standards high
 - Powered by strong tea and compiler errors
 
 </details>

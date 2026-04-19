@@ -14,8 +14,8 @@
 
 ## Current Projects
 
-- 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)**(closed source) — Multi-tenant SaaS for repair shop management (Android + Backend)
-- 📚 **[Amar Batch](https://github.com/shahjalal-mahmud/Amar_Batch)**(closed source) — Offline-first tutor & student management system with Room DB
+- 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)** (closed source) — Multi-tenant SaaS for repair shop management (Android + Backend)
+- 📚 **[Amar Batch](https://github.com/shahjalal-mahmud/Amar_Batch)** (closed source) — Offline-first tutor & student management system with Room DB
 - 💸 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Real-time on-device fake currency detection via TensorFlow Lite · 🏆 Top 100 · SOLVIO AI Hackathon 2025
 - 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK with AES-256 encryption & Android Keystore
 - 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes

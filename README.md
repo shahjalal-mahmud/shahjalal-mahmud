@@ -81,7 +81,9 @@ Modular Android SDK built for secure and testable payment integration.
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/shahjalal-mahmud)
+<p align="center">
+  <img src="https://yourgithubinsights.netlify.app/api/insight?username=shahjalal-mahmud&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&calendar=true" alt="GitHub Insights" />
+</p>
 
 ## What I'm Doing
 
@@ -96,12 +98,6 @@ Modular Android SDK built for secure and testable payment integration.
 [![Email](https://img.shields.io/badge/-mahmud.nubtk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmud.nubtk@gmail.com)
 [![Appriyo](https://img.shields.io/badge/-appriyo.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://appriyo.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://shahajalalmahmud.netlify.app/)
-
----
-
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=shahjalal-mahmud&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" />
-</p>
 
 ---
 

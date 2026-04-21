@@ -82,7 +82,7 @@ Modular Android SDK built for secure and testable payment integration.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://yourgithubinsights.netlify.app/api/insight?username=shahjalal-mahmud&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false&calendar=true" alt="GitHub Insights" />
+  <img src="https://yourgithubinsights.netlify.app/api/insight?username=shahjalal-mahmud&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&calendar=true" alt="GitHub Insights" />
 </p>
 
 ## What I'm Doing

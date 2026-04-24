@@ -16,6 +16,7 @@
 
 - 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)** (closed source) — Multi-tenant SaaS for repair shop management (Android + Backend)
 - 📚 **[Amar Batch](https://github.com/shahjalal-mahmud/Amar_Batch)** (closed source) — Offline-first tutor & student management system with Room DB
+- ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code: step-by-step algorithm animation, real benchmarking, and time complexity detection
 - 💸 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Real-time on-device fake currency detection via TensorFlow Lite · 🏆 Top 100 · SOLVIO AI Hackathon 2025
 - 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK with AES-256 encryption & Android Keystore
 - 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes
@@ -50,16 +51,13 @@ Android app for tutors to manage students, attendance, and fees — works withou
 - Reduced manual administrative workload by **~80%**
 - Designed efficient local schema optimized for fast queries
 
-### 💸 CashGuard AI — Currency Detection App
-Real-time offline fake currency detection powered by on-device AI.
-- Integrated **TensorFlow Lite + CameraX** for low-latency inference
-- Achieved **98.7% detection accuracy** on-device
-- **Top 100 Finalist** at SOLVIO AI Hackathon 2025
-
-### 🔐 FinPaySDK — Secure Payment Library
-Modular Android SDK built for secure and testable payment integration.
-- **AES-256 encryption** backed by Android Keystore
-- Clean modular architecture with **100% unit test coverage**
+### ⚡ AlgoViz — Visual Algorithm Intelligence in VS Code  
+Interactive tool that visualizes algorithms, benchmarks performance, and detects time complexity directly inside the editor.
+- Built **VS Code extension + Python instrumentation layer** for step-by-step execution tracking  
+- Developed **animation engine** to visualize operations (compare, swap, recursion flow)  
+- Implemented **real benchmarking system** with runtime graphs across input scales  
+- Designed **empirical complexity detection** using normalized curves (`n`, `n log n`, `n²`)  
+- Created **interactive WebView UI** with controls, timeline, and performance insights
 
 ## Tech Stack
 

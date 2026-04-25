@@ -26,6 +26,7 @@
 - 🤖 **[Prodorshok](https://github.com/shahjalal-mahmud/Prodorshok)** — AI-powered career guide for Bangladeshi students · Kotlin, Jetpack Compose, GPT-3.5
 - 🎓 **[Portfolio Nag Sir](https://anindyanag.netlify.app/)** — Full-stack academic portfolio & CMS with React, Firebase, Firestore, and admin dashboard
 - 📄 **[Cover Page Generator](https://nubtk.netlify.app/)** — Smart academic cover page automation for university students using JSON datasets & auto-fill logic
+- 🛠️ **[MobiFixer](https://github.com/shahjalal-mahmud/MobiFixer)** — Mobile repair management system with SQLite local storage & Firebase Auth · Java, Jetpack Navigation, RecyclerView
 - ⚙️ **[CPU Scheduler](https://github.com/shahjalal-mahmud/CPU_Scheduler)** — Terminal-based CPU scheduling simulator in C++ · FCFS, SJF, Round Robin with Gantt chart & metrics
 - 🔍 **[Deadlock Detective](https://github.com/shahjalal-mahmud/Deadlock-Detective-Bankers-Algorithm-Simulator)** — C++17 simulation of Dijkstra's Banker's Algorithm · safety checks, Need matrix, step-by-step safe sequence
 

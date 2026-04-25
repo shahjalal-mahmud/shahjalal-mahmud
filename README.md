@@ -18,6 +18,7 @@
 - 📚 **[Amar Batch](https://github.com/shahjalal-mahmud/Amar_Batch)** (closed source) — Offline-first tutor & student management system with Room DB
 - ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code: step-by-step algorithm animation, and complexity detection
 - 📊 **[GitHub Insights](https://github.com/shahjalal-mahmud/GitHub-Insights)** — Core Contributor; developed high-contrast themes & optimized language analytics
+- 🧠 **[LeetCode DSA Practice](https://github.com/shahjalal-mahmud/LeetCode)** — Daily interview preparation focusing on core data structures, algorithms, and problem-solving patterns
 - 💸 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Real-time on-device fake currency detection via TensorFlow Lite · 🏆 Top 100 · SOLVIO AI Hackathon 2025
 - 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK with AES-256 encryption & Android Keystore
 - 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes
@@ -27,10 +28,10 @@
 - 🤖 **[Prodorshok](https://github.com/shahjalal-mahmud/Prodorshok)** — AI-powered career guide for Bangladeshi students · Kotlin, Jetpack Compose, GPT-3.5
 - 🎓 **[Portfolio Nag Sir](https://anindyanag.netlify.app/)** — Full-stack academic portfolio & CMS with React, Firebase, Firestore, and admin dashboard
 - 📄 **[Cover Page Generator](https://nubtk.netlify.app/)** — Smart academic cover page automation for university students using JSON datasets & auto-fill logic
-- 🛠️ **[MobiFixer](https://github.com/shahjalal-mahmud/MobiFixer)** — Mobile repair management system with SQLite local storage & Firebase Auth · Java, Jetpack Navigation, RecyclerView
+- 🛠️ **[MobiFixer](https://github.com/shahjalal-mahmud/MobiFixer)** — Mobile repair management system with SQLite local storage & Firebase Auth · Java, RecyclerView
 - ⚙️ **[CPU Scheduler](https://github.com/shahjalal-mahmud/CPU_Scheduler)** — Terminal-based CPU scheduling simulator in C++ · FCFS, SJF, Round Robin with Gantt chart & metrics
 - 🔍 **[Deadlock Detective](https://github.com/shahjalal-mahmud/Deadlock-Detective-Bankers-Algorithm-Simulator)** — C++17 simulation of Dijkstra's Banker's Algorithm · safety checks, step-by-step safe sequence
-- ⚔️ **[CodeForces Practice](https://github.com/shahjalal-mahmud/CodeForces)** — Daily DSA problem-solving and competitive programming practice categorized by difficulty (800-1000+) · C++
+- ⚔️ **[CodeForces Practice](https://github.com/shahjalal-mahmud/CodeForces)** — Daily DSA problem-solving practice categorized by difficulty (800-1000+) · C++
 
 ## Legacy Work
 

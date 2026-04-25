@@ -17,6 +17,7 @@
 - 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)** (closed source) — Multi-tenant SaaS for repair shop management (Android + Backend)
 - 📚 **[Amar Batch](https://github.com/shahjalal-mahmud/Amar_Batch)** (closed source) — Offline-first tutor & student management system with Room DB
 - ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code: step-by-step algorithm animation, and complexity detection
+- 🚀 **[Appriyo](https://appriyo.com)** — Official website for my IT firm; architected a responsive platform for delivering scalable business solutions
 - 📊 **[GitHub Insights](https://yourgithubinsights.netlify.app/)** — Core Contributor; developed high-contrast themes & optimized language analytics
 - 🧠 **[LeetCode DSA](https://github.com/shahjalal-mahmud/LeetCode)** — Daily interview preparation focusing on core data structures, algorithms, and problem-solving patterns
 - 💸 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Real-time on-device fake currency detection via TensorFlow Lite · 🏆 Top 100 · SOLVIO AI Hackathon 2025

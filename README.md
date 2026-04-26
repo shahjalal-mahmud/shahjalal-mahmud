@@ -19,22 +19,30 @@
 - 💳 **[NFC Digital Card](https://appriyo.com)** (Proprietary) — A premium Physical-digital networking product with elite profile engine
 - ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code: step-by-step algorithm animation, and complexity detection
 - 🚀 **[Appriyo](https://appriyo.com)** — Official website for my IT firm; architected a responsive platform for delivering scalable business solutions
-- 📊 **[GitHub Insights](https://yourgithubinsights.netlify.app/)** — Core Contributor; developed high-contrast themes & optimized language analytics
-- 🧠 **[LeetCode DSA](https://github.com/shahjalal-mahmud/LeetCode)** — Daily interview preparation focusing on core data structures, algorithms, and problem-solving patterns
-- 💸 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Real-time on-device fake currency detection via TensorFlow Lite · 🏆 Top 100 · SOLVIO AI Hackathon 2025
-- 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK with AES-256 encryption & Android Keystore
 - 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes
 
 ## Past Projects
 
 - 🤖 **[Prodorshok](https://github.com/shahjalal-mahmud/Prodorshok)** — AI-powered career guide for Bangladeshi students · Kotlin, Jetpack Compose, GPT-3.5
+- 💸 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Real-time on-device fake currency detection via TensorFlow Lite · 🏆 Top 100 · SOLVIO AI Hackathon 2025
+- 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK with AES-256 encryption & Android Keystore
 - 🎓 **[Portfolio Nag Sir](https://anindyanag.netlify.app/)** — Full-stack academic portfolio & CMS with React, Firebase, Firestore, and admin dashboard
 - 🏪 **[One Stop Liquor](https://onestopliquorandwholemart.info)** — Freelance website for a LA-based wholesale business; handled full dev, domain setup, & deployment
+- 📊 **[GitHub Insights](https://yourgithubinsights.netlify.app/)** — Core Contributor; developed high-contrast themes & optimized language analytics
 - 📄 **[Cover Page Generator](https://nubtk.netlify.app/)** — Smart academic cover page automation for university students using JSON datasets & auto-fill logic
 - 🛠️ **[MobiFixer](https://github.com/shahjalal-mahmud/MobiFixer)** — Mobile repair management system with SQLite local storage & Firebase Auth · Java, RecyclerView
 - ⚙️ **[CPU Scheduler](https://github.com/shahjalal-mahmud/CPU_Scheduler)** — Terminal-based CPU scheduling simulator in C++ · FCFS, SJF, Round Robin with Gantt chart & metrics
 - 🔍 **[Deadlock Detective](https://github.com/shahjalal-mahmud/Deadlock-Detective-Bankers-Algorithm-Simulator)** — C++17 simulation of Dijkstra's Banker's Algorithm · safety checks, step-by-step safe sequence
+
+## Engineering Foundations
+
+- 🧠 **[LeetCode DSA](https://github.com/shahjalal-mahmud/LeetCode)** — Daily interview preparation focusing on core data structures, algorithms, and problem-solving patterns
 - ⚔️ **[CodeForces Practice](https://github.com/shahjalal-mahmud/CodeForces)** — Daily DSA problem-solving practice categorized by difficulty (800-1000+) · C++
+- 🧠 **[Data Structures from Scratch](https://github.com/shahjalal-mahmud/data-structures-from-scratch)** — Implemented core structures (Linked Lists, Stacks, Queues, Trees, Graphs, Hashing)
+- ⚙️ **[Algorithm Implementations](https://github.com/shahjalal-mahmud/algorithm-implementations)** — Hands-on implementations of DP, graph algorithms, sorting, shortest path, and traversal techniques
+- 📊 **[Numerical Methods (C++)](https://github.com/shahjalal-mahmud/numerical-methods-cpp)** — Implemented root-finding and linear equation solvers (Bisection, Newton-Raphson, Gauss Elimination)  
+- ⚙️ **[Assembly Programming (x86)](https://github.com/shahjalal-mahmud/Assembly-Programming-x86)** — Implemented arithmetic operations, control flow, input/output handling, and logic problems at instruction level
+> Focus: understanding how systems work under the hood — from memory and computation to algorithmic efficiency.
 
 ## Legacy Work
 

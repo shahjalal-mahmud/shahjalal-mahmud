@@ -38,10 +38,10 @@
 
 - 🧠 **[LeetCode DSA](https://github.com/shahjalal-mahmud/LeetCode)** — Daily interview preparation focusing on core data structures, algorithms, and problem-solving patterns
 - ⚔️ **[CodeForces Practice](https://github.com/shahjalal-mahmud/CodeForces)** — Daily DSA problem-solving practice categorized by difficulty (800-1000+) · C++
-- 🧠 **[Data Structures from Scratch](https://github.com/shahjalal-mahmud/data-structures-from-scratch)** — Implemented core structures (Linked Lists, Stacks, Queues, Trees, Graphs, Hashing)
-- ⚙️ **[Algorithm Implementations](https://github.com/shahjalal-mahmud/algorithm-implementations)** — Hands-on implementations of DP, graph algorithms, sorting, shortest path, and traversal techniques
-- 📊 **[Numerical Methods (C++)](https://github.com/shahjalal-mahmud/numerical-methods-cpp)** — Implemented root-finding and linear equation solvers (Bisection, Newton-Raphson, Gauss Elimination)  
-- ⚙️ **[Assembly Programming (x86)](https://github.com/shahjalal-mahmud/Assembly-Programming-x86)** — Implemented arithmetic operations, control flow, input/output handling, and logic problems at instruction level
+- 🧠 **[Data Structures from Scratch](https://github.com/shahjalal-mahmud/data-structures-from-scratch)** — Implemented core topics (Linked Lists, Stacks, Queues, Trees, Graphs, Hashing)
+- ⚙️ **[Algorithm Implementations](https://github.com/shahjalal-mahmud/algorithm-implementations)** — Implementations of DP, graph algorithms, sorting, shortest path, and traversal techniques
+- 📊 **[Numerical Methods (C++)](https://github.com/shahjalal-mahmud/numerical-methods-cpp)** — Implemented linear equation solvers (Bisection, Newton-Raphson, Gauss Elimination)  
+- ⚙️ **[Assembly Programming (x86)](https://github.com/shahjalal-mahmud/Assembly-Programming-x86)** — Implemented arithmetic operations, control flow, input/output handling, and logic problems
 > Focus: understanding how systems work under the hood — from memory and computation to algorithmic efficiency.
 
 ## Legacy Work

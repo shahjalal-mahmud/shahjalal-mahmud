@@ -20,6 +20,7 @@
 - ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code: step-by-step algorithm animation, and complexity detection
 - 🚀 **[Appriyo](https://appriyo.com)** — Official website for my IT firm; architected a responsive platform for delivering scalable business solutions
 - 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes
+- 🧠 **[APRA Form](https://apraform.netlify.app/)** — Production-ready survey system replacing Google Forms with custom UI, validation engine & serverless data pipeline
 
 ## Past Projects
 

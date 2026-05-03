@@ -26,6 +26,7 @@
 
 - 🤖 **[Prodorshok](https://github.com/shahjalal-mahmud/Prodorshok)** — AI-powered career guide for Bangladeshi students · Kotlin, Jetpack Compose, GPT-3.5
 - 💸 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Real-time on-device fake currency detection via TensorFlow Lite · 🏆 Top 100 · SOLVIO AI Hackathon 2025
+- 🏦 **[JPMorgan Chase Midas Simulation](https://github.com/shahjalal-mahmud/forage-midas)** — Built Kafka + Spring Boot transaction processor with database persistence & REST APIs
 - 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK with AES-256 encryption & Android Keystore
 - 🎓 **[Portfolio Nag Sir](https://anindyanag.netlify.app/)** — Full-stack academic portfolio & CMS with React, Firebase, Firestore, and admin dashboard
 - 🏪 **[One Stop Liquor](https://onestopliquorandwholemart.info)** — Freelance website for a LA-based wholesale business; handled full dev, domain setup, & deployment
@@ -91,6 +92,10 @@ Interactive tool that visualizes algorithms, benchmarks performance, and detects
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![JPA](https://img.shields.io/badge/-JPA-007396?style=flat-square&logo=hibernate&logoColor=white)
+![H2 Database](https://img.shields.io/badge/-H2%20Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/-TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## GitHub Activity

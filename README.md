@@ -15,7 +15,7 @@
 ## Current Projects
 
 - 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)** (closed source) — Multi-tenant SaaS for repair shop management (Android + Backend)
-- 📚 **[Amar Batch](https://github.com/shahjalal-mahmud/Amar_Batch)** (closed source) — Offline-first tutor & student management system with Room DB
+- 📚 **[Amar Batch](https://github.com/shahjalal-mahmud/amar-batch-showcase)** (closed source) — Offline-first tutor & student management system with Room DB
 - 💳 **[NFC Digital Card](https://appriyo.com)** (Proprietary) — A premium Physical-digital networking product with elite profile engine
 - ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code: step-by-step algorithm animation, and complexity detection
 - 🚀 **[Appriyo](https://appriyo.com)** — Official website for my IT firm; architected a responsive platform for delivering scalable business solutions

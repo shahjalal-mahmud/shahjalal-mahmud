@@ -20,7 +20,6 @@
 - ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code: step-by-step algorithm animation, and complexity detection
 - 🚀 **[Appriyo](https://appriyo.com)** — Official website for my IT firm; architected a responsive platform for delivering scalable business solutions
 - 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes
-- 🧠 **[APRA Form](https://apraform.netlify.app/)** — Production-ready survey system replacing Google Forms with custom UI, validation engine & serverless data pipeline
 
 ## Past Projects
 
@@ -35,6 +34,7 @@
 - 🛠️ **[MobiFixer](https://github.com/shahjalal-mahmud/MobiFixer)** — Mobile repair management system with SQLite local storage & Firebase Auth · Java, RecyclerView
 - ⚙️ **[CPU Scheduler](https://github.com/shahjalal-mahmud/CPU_Scheduler)** — Terminal-based CPU scheduling simulator in C++ · FCFS, SJF, Round Robin with Gantt chart & metrics
 - 🔍 **[Deadlock Detective](https://github.com/shahjalal-mahmud/Deadlock-Detective-Bankers-Algorithm-Simulator)** — C++17 simulation of Dijkstra's Banker's Algorithm · safety checks, step-by-step safe sequence
+- 🧠 **[APRA Form](https://apraform.netlify.app/)** — Production-ready survey system replacing Google Forms with custom UI, validation engine & serverless data pipeline
 
 ## Engineering Foundations
 

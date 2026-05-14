@@ -17,7 +17,6 @@
 - 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)** (closed source) — Multi-tenant SaaS for repair shop management (Android + Backend)
 - 📚 **[Amar Batch](https://github.com/Appriyo/amar-batch-showcase)** (closed source) — Offline-first tutor & student management system with Room DB
 - 💳 **[NFC Digital Card](https://appriyo.com)** (Proprietary) — A premium Physical-digital networking product with elite profile engine
-- ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code: step-by-step algorithm animation, and complexity detection
 - 🚀 **[Appriyo](https://appriyo.com)** — Official website for my IT firm; architected a responsive platform for delivering scalable business solutions
 - 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes
 
@@ -28,6 +27,7 @@
 - 🏦 **[JPMorgan Chase Midas Simulation](https://github.com/shahjalal-mahmud/forage-midas)** — Built Kafka + Spring Boot transaction processor with database persistence & REST APIs
 - 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK with AES-256 encryption & Android Keystore
 - 🎓 **[Portfolio Nag Sir](https://anindyanag.netlify.app/)** — Full-stack academic portfolio & CMS with React, Firebase, Firestore, and admin dashboard
+- ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code: step-by-step algorithm animation, and complexity detection
 - 🏪 **[One Stop Liquor](https://onestopliquorandwholemart.info)** — Freelance website for a LA-based wholesale business; handled full dev, domain setup, & deployment
 - 📊 **[GitHub Insights](https://yourgithubinsights.netlify.app/)** — Core Contributor; developed high-contrast themes & optimized language analytics
 - 📄 **[Cover Page Generator](https://nubtk.netlify.app/)** — Smart academic cover page automation for university students using JSON datasets & auto-fill logic
@@ -55,26 +55,18 @@ These were scrapped and fully rewritten — not because they failed, but because
 
 ## Featured Work
 
-### 🔧 Amar Repair — Multi-Tenant SaaS Platform
-End-to-end repair business management with strict data isolation and RBAC.
-- Designed **multi-tenant architecture** with per-tenant data isolation
-- Built **secure REST APIs** with JWT authentication and role-based access control
-- Implemented **transaction-safe workflows** for payments, repairs, and inventory
-- Delivered **99.9% crash-free** Android performance in production
-
 ### 📚 Amar Batch — Offline-First Management System
 Android app for tutors to manage students, attendance, and fees — works without internet.
 - Built **offline-first architecture** using Room DB with sync support
 - Reduced manual administrative workload by **~80%**
 - Designed efficient local schema optimized for fast queries
 
-### ⚡ AlgoViz — Visual Algorithm Intelligence in VS Code  
-Interactive tool that visualizes algorithms, benchmarks performance, and detects time complexity directly inside the editor.
-- Built **VS Code extension + Python instrumentation layer** for step-by-step execution tracking  
-- Developed **animation engine** to visualize operations (compare, swap, recursion flow)  
-- Implemented **real benchmarking system** with runtime graphs across input scales  
-- Designed **empirical complexity detection** using normalized curves (`n`, `n log n`, `n²`)  
-- Created **interactive WebView UI** with controls, timeline, and performance insights
+### 🔧 Amar Repair — Multi-Tenant SaaS Platform
+End-to-end repair business management with strict data isolation and RBAC.
+- Designed **multi-tenant architecture** with per-tenant data isolation
+- Built **secure REST APIs** with JWT authentication and role-based access control
+- Implemented **transaction-safe workflows** for payments, repairs, and inventory
+- Delivered **99.9% crash-free** Android performance in production
 
 ## Tech Stack
 

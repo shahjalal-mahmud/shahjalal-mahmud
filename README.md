@@ -19,6 +19,7 @@
 - 💳 **[NFC Digital Card](https://appriyo.com)** (Proprietary) — A premium Physical-digital networking product with elite profile engine
 - 🚀 **[Appriyo](https://appriyo.com)** — Official website for my IT firm; architected a responsive platform for delivering scalable business solutions
 - 🌐 **[My Portfolio](https://shahajalalmahmud.netlify.app/)** — High-performance developer portfolio built with React, Vite & Tailwind CSS · 100+ dynamic themes
+- 💼 **[Amar Career](https://github.com/shahjalal-mahmud/amar-career)** — Personal job application management system to track applications, deadlines, CV versions, and interview progress in a structured, real-time workflow.
 
 ## Past Projects
 

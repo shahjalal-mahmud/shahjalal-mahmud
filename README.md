@@ -24,37 +24,20 @@
 
 ## Current Projects
 
-### 📱 Appriyo Products
-
 - 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)** — End-to-end repair business management with multi-tenant architecture and RBAC
 - 📚 **[Amar Batch](https://github.com/Appriyo/amar-batch-showcase)** — Offline-first tutor & student management system — fully functional without internet
 - 💳 **Amar Card** — Physical-digital NFC networking platform · Android · NFC · Backend
 - 🌐 **[Appriyo](https://appriyo.com)** — Official IT firm platform · React · Vite · Tailwind
-
-### 🤖 AI & Hackathon Projects
-
 - 🏆 **[CashGuard AI](https://github.com/shahjalal-mahmud/CashGuardAI)** — Top 100 Finalist · SOLVIO AI Hackathon 2025 · 98.7% fraud detection accuracy
 - 🤖 **[Prodorshok](https://github.com/shahjalal-mahmud/Prodorshok)** — AI career guide for Bangladeshi students · GPT API + Kotlin + Compose
-
-### 🛠️ Dev Tools & Visualizers
-
 - ⚡ **[AlgoViz](https://github.com/shahjalal-mahmud/algo-viz)** — Visual DSA learning inside VS Code with live complexity detection
 - 📊 **[GitHub Insights](https://yourgithubinsights.netlify.app/)** — Core contributor · high-contrast themes & analytics · React · TypeScript
 - 🏦 **[JPMorgan Midas](https://github.com/shahjalal-mahmud/forage-midas)** — Kafka + Spring Boot transaction processor · Java · Spring Boot · Kafka
-
-### 🔐 Security & SDKs
-
 - 🔐 **[FinPaySDK](https://github.com/shahjalal-mahmud/FinPayDemo)** — Secure Android payment SDK · AES-256 + Android Keystore · Kotlin
 - 🔍 **[Deadlock Detective](https://github.com/shahjalal-mahmud/Deadlock-Detective-Bankers-Algorithm-Simulator)** — Banker's Algorithm simulation with safe sequence detection · C++17
-
-### ⚙️ Systems & OS Projects
-
 - ⚙️ **[CPU Scheduler](https://github.com/shahjalal-mahmud/CPU_Scheduler)** — FCFS, SJF, Round Robin algorithms with Gantt chart visualization · C++
 - 📊 **[Numerical Methods](https://github.com/shahjalal-mahmud/numerical-methods-cpp)** — Bisection, Newton-Raphson, Gauss Elimination · C++
 - 🖥️ **[Assembly (x86)](https://github.com/shahjalal-mahmud/Assembly-Programming-x86)** — Arithmetic, control flow, I/O handling in x86 Assembly
-
-### 🌐 Web & Freelance
-
 - 🌐 **[One Stop Liquor](https://onestopliquorandwholemart.info)** — Freelance · full dev, domain setup & deployment · React · Hosting
 - 🧩 **[APRA Form](https://apraform.netlify.app/)** — Custom survey platform with validation engine · React · Serverless
 

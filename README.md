@@ -1,6 +1,6 @@
 # Hi, I'm Md Shahajalal Mahmud 👋
 
-📍 **Khulna, Bangladesh** | 📱 **Android & Backend Engineer** | 🏗️ **Founder @ [Appriyo**](https://appriyo.com)
+📍 **Khulna, Bangladesh** | 📱 **Android & Backend Engineer** | 🏗️ Founder @ [Appriyo](https://appriyo.com)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)

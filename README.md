@@ -118,7 +118,7 @@ End-to-end repair business management with strict data isolation and RBAC.
 [![LinkedIn](https://img.shields.io/badge/-Md%20Shahajalal%20Mahmud-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahajalal-mahmud)
 [![Email](https://img.shields.io/badge/-mahmud.nubtk@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmud.nubtk@gmail.com)
 [![Appriyo](https://img.shields.io/badge/-appriyo.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://appriyo.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://shahajalalmahmud.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](http://shahajalal.me/)
 
 ---
 

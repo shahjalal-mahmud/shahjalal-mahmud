@@ -128,6 +128,22 @@ End-to-end repair business management with strict data isolation and RBAC.
 - 🏗️ **Founder** — Appriyo, delivering end-to-end product engineering
 - 📱 **Production Android apps** with 99.9% crash-free rates
 
+## Licenses & Certifications
+
+* 🏢 **Software Engineering Job Simulation** – [JPMorganChase (Forage)](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_69e8e09047a31d3681bc18cc_1777838202966_completion_certificate.pdf) 
+  _Issued May 2026
+* 🤖 **Resume Writing with AI Support Job Simulation** – [Forage](https://www.theforage.com/completion-certificates/rm6of58ywoJoNuiBt/ohm6nvufSdZc2aQAA_rm6of58ywoJoNuiBt_69e8e09047a31d3681bc18cc_1776877022479_completion_certificate.pdf) 
+  _Issued Apr 2026 
+* 🐍 **Top 10% Python Coder** – [credmark](https://credmark.ai/badge/CM-2601-3JEWXTE) 
+  _Issued Jan 2026
+* 🏆 **Intra-University Project Showcase CSE Fest-2025 (Sfuron'22)** – [NUBTK](#) 
+  _Issued Dec 2025
+* 🤖 **Solvio 2025 AI Hackathon – Top 100 Certificate** – [Sheba Platform Ltd.](#) 
+  _Issued Nov 2025_
+* 🧮 **Math Olympiad 2016** – [Youth Ending Hunger Bangladesh](#) 
+  _Issued Feb 2016_
+
+ 
 ### Philosophy
 
 > "Systems beat features" — I build software that scales, isolates data properly, and doesn't break at 3am. Reliability is a feature.

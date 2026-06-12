@@ -136,11 +136,11 @@ End-to-end repair business management with strict data isolation and RBAC.
   _Issued Apr 2026 
 * 🐍 **Top 10% Python Coder** – [credmark](https://credmark.ai/badge/CM-2601-3JEWXTE) 
   _Issued Jan 2026
-* 🏆 **Intra-University Project Showcase CSE Fest-2025 (Sfuron'22)** – [NUBTK](#) 
+* 🏆 **Intra-University Project Showcase CSE Fest-2025 (Sfuron'22)** – [NUBTK](https://drive.google.com/file/d/1rl-C2uoJ3jklL5aU6nHCqtRsTVc_DeoJ/view?usp=sharing) 
   _Issued Dec 2025
-* 🤖 **Solvio 2025 AI Hackathon – Top 100 Certificate** – [Sheba Platform Ltd.](#) 
+* 🤖 **Solvio 2025 AI Hackathon – Top 100 Certificate** – [Sheba Platform Ltd.](https://drive.google.com/file/d/1qGrztOL7JGP3PCJ1cd_pn1dweb62Da2I/view?usp=sharing) 
   _Issued Nov 2025_
-* 🧮 **Math Olympiad 2016** – [Youth Ending Hunger Bangladesh](#) 
+* 🧮 **Math Olympiad 2016** – [Youth Ending Hunger Bangladesh](https://drive.google.com/file/d/1rgnBNWhCuUSN6Be00mhDc2NDazIJ-isV/view?usp=sharing) 
   _Issued Feb 2016_
 
  

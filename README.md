@@ -12,15 +12,6 @@
 
 > Building scalable software systems that solve real-world business problems — from production-grade Android apps to secure multi-tenant backend architectures. Running Appriyo end-to-end: system design, infrastructure, and mobile.
 
-## Professional Experience
-
-### **Backend AI Engineer - Intern** | **FlyRank AI** 
-_Jun 2026 – Present · 1 mo | Khulna, Bangladesh (Remote)_
-* Currently interning at FlyRank AI as an AI intern, focusing on Backend AI Engineering.
-* Working with AI-driven workflows and building background systems for **FlyRank - The Autopilot for Organic Growth**.
-
----
-
 ## Current Projects
 
 - 🔧 **[Amar Repair](https://github.com/shahjalal-mahmud/Amar_Repair)** (private SaaS product) — Multi-tenant SaaS for repair shop management (Android + Backend)
